@@ -1,0 +1,6 @@
+# The antifunlist
+
+0.0.0.0 family.gonoodle.com
+0.0.0.0 pbskids.org
+0.0.0.0 safeyoutube.net
+0.0.0.0 lol.disney.com
